@@ -1,9 +1,3 @@
-'''
-Zihao Li
-CS 6120
-Assignment 1 Part 1 Step 4 - 5
-'''
-
 from nltk.corpus import gutenberg
 from nltk.tokenize import word_tokenize, sent_tokenize
 from train_test import  train_bpe_on_gutenberg
