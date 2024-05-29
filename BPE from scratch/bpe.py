@@ -1,8 +1,3 @@
-'''
-Zihao Li
-CS 6120
-Assignment 1 Part 1 Step 1
-'''
 
 from collections import Counter, defaultdict
 import re
