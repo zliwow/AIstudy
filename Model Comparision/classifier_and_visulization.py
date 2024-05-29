@@ -1,7 +1,4 @@
-'''
-CS 6210 Zihao Li
-Assignment 1 Part 2, step 3, 4 ,5
-'''
+
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.model_selection import train_test_split
