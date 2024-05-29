@@ -1,7 +1,4 @@
-'''
-CS 6210 Zihao Li
-Assignment 1 Part 2, step 1
-'''
+
 import nltk
 from nltk.corpus import movie_reviews
 from nltk.tokenize import word_tokenize
