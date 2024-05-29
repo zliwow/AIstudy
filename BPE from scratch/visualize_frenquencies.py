@@ -1,8 +1,3 @@
-'''
-Zihao Li
-CS 6120
-Assignment 1 Part 1 Step 6
-'''
 
 import matplotlib.pyplot as plt
 from bpe import learn_bpe
