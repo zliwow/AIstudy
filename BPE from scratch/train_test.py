@@ -1,8 +1,3 @@
-'''
-Zihao Li
-CS 6120
-Assignment 1 Part 1 Step 2 - 3
-'''
 
 from nltk.corpus import gutenberg
 from bpe import learn_bpe, encode, decode
