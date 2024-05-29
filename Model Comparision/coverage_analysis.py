@@ -1,7 +1,4 @@
-'''
-CS 6210 Zihao Li
-Assignment 1 Part 2, step 2
-'''
+
 from collections import Counter
 import matplotlib.pyplot as plt
 import pickle
